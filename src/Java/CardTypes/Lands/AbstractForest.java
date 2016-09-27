@@ -1,6 +1,5 @@
 package Java.CardTypes.Lands;
 
-import Java.Mana.GreenMana;
 import Java.Mana.ManaCost;
 import Java.Player.Player;
 

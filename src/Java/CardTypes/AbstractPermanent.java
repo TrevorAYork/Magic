@@ -3,8 +3,8 @@ package Java.CardTypes;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import Java.Ablilitys.ActivatedAbility;
-import Java.Ablilitys.HasActivatedAbility;
+import Java.Ablilitys.ActivatedAbilites.ActivatedAbility;
+import Java.Ablilitys.ActivatedAbilites.HasActivatedAbility;
 import Java.Mana.ManaCost;
 import Java.Player.Player;
 

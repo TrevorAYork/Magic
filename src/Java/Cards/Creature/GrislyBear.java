@@ -1,4 +1,4 @@
-package Java.Cards;
+package Java.Cards.Creature;
 
 import Java.CardTypes.Creatures.AbstractCreature;
 import Java.Mana.ManaCostBuilder;

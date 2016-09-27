@@ -1,10 +1,11 @@
-package Java.Ablilitys;
+package Java.Ablilitys.ActivatedAbilites.ManaAbilities;
 
-import java.util.ArrayList;
-
+import Java.Ablilitys.ActivatedAbilites.ManaAbilities.TapToAddMana;
 import Java.CardTypes.AbstractPermanent;
 import Java.Mana.Mana;
 import Java.Mana.WhiteMana;
+
+import java.util.ArrayList;
 
 public class TapToAddWhite extends TapToAddMana {
 

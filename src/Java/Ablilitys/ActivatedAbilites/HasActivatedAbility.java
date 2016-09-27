@@ -1,4 +1,4 @@
-package Java.Ablilitys;
+package Java.Ablilitys.ActivatedAbilites;
 
 import java.util.Collection;
 

@@ -1,12 +1,14 @@
-package Java.Ablilitys;
+package Java.Ablilitys.ActivatedAbilites.ManaAbilities;
 
-import java.util.ArrayList;
-
+import Java.Ablilitys.ActivatedAbilites.ActivatedAbility;
+import Java.Ablilitys.ActivatedAbilites.ManaAbilities.ManaAbility;
 import Java.CardTypes.AbstractPermanent;
 import Java.CardTypes.Creatures.Creature;
 import Java.Mana.Mana;
 
-public class TapToAddMana implements ActivatedAbility {
+import java.util.ArrayList;
+
+public class TapToAddMana implements ActivatedAbility, ManaAbility {
 
     private AbstractPermanent permanent;
     private ArrayList<Mana> manaToAdd;

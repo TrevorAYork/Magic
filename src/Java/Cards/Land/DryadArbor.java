@@ -1,9 +1,8 @@
-package Java.Cards;
+package Java.Cards.Land;
 
-import Java.Ablilitys.TapToAddGreen;
+import Java.Ablilitys.ActivatedAbilites.ManaAbilities.TapToAddGreen;
 import Java.CardTypes.Creatures.AbstractCreatureLand;
 import Java.CardTypes.Lands.Forest;
-import Java.Mana.GreenMana;
 import Java.Player.Player;
 
 public class DryadArbor extends AbstractCreatureLand implements Forest {

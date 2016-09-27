@@ -1,6 +1,6 @@
-package Java.Cards;
+package Java.Cards.Land;
 
-import Java.Ablilitys.TapToAddGreen;
+import Java.Ablilitys.ActivatedAbilites.ManaAbilities.TapToAddGreen;
 import Java.CardTypes.Lands.AbstractForest;
 import Java.Player.Player;
 

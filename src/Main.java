@@ -1,10 +1,5 @@
-import java.util.ArrayList;
-import java.util.Collection;
-
-import Java.CardTypes.CardTypes;
-import Java.Cards.DryadArbor;
-import Java.Cards.Forest;
-import Java.Cards.GrislyBear;
+import Java.Cards.Land.DryadArbor;
+import Java.Cards.Land.Forest;
 import Java.Player.Player;
 
 public class Main {

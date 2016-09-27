@@ -1,4 +1,4 @@
-package Java.Ablilitys;
+package Java.Ablilitys.ActivatedAbilites;
 
 public interface ActivatedAbility {
 
