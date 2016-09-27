@@ -1,4 +1,4 @@
-package Java.Phases;
+package Java.Phase.Phases;
 
 public interface Phase {
 
